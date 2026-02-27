@@ -1,0 +1,52 @@
+#camada1{
+    position: relative;
+    width: 200px; /*largura */
+    height: 100px; /*altura */
+    background-color: blue;
+    color: #fff;
+    text-align: center;
+    left: 350px;
+    top: 100px;
+}
+
+#camada2{
+    position: relative;
+    width: 600px; /*largura */
+    height: 100px; /*altura */
+    background-color: rgb(255, 0, 13);
+    color: #fff;
+    text-align: center;
+    left: 550px;
+}
+
+#camada3{
+    position: relative;
+    width: 800px; /*largura */
+    height: 50px; /*altura */
+    background-color: rgb(9, 241, 40);
+    color: #000;
+    text-align: center;
+    left: 350px;
+}
+
+#camada4{
+    position: relative;
+    width: 800px; /*largura */
+    height: 500px; /*altura */
+    background-color: rgb(252, 227, 0);
+    border: 5px solid #eb0808;
+    box-sizing: border-box;
+    color: #000;
+    text-align: center;
+    left: 350px;
+}
+
+#camada5{
+    position: relative;
+    width: 800px; /*largura */
+    height: 50px; /*altura */
+    background-color: rgb(46, 46, 46);
+    color: #fff;
+    text-align: center;
+    left: 350px;
+}
